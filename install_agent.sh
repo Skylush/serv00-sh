@@ -19,7 +19,7 @@ cat > agent.sh << EOF
 
 export TMPDIR=/home/USERNAME/tmp
 
-/home/USERNAME/domains/USERNAME.serv00.com/public_html/nezhapanel/nezha-agent -s USERNAME.serv00.com:13141 -p password -d
+/home/USERNAME/domains/USERNAME.serv00.com/public_html/nezhapanel/nezha-agent -s naza.luu.us.kg:51757 -p f1dYlsBoF1MYvTlExL -d
 EOF
 
 # 赋予 agent.sh 可执行权限
